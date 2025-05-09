@@ -1,3 +1,7 @@
+OUTSIDE OF FOLDERS ARE .CPP AND .H  FILES WICH CAN BE REPLACED WITH ORIGINAL REPO DATA IN SRC FOLDER
+
+
+
 <p align="center">
   <img src="./icon.png" alt="Ollama Chat Module" title="Ollama Chat Module Icon">
 </p>
